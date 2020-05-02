@@ -1,5 +1,12 @@
 {
   "dependencies": {
     "discord.js": "^12.2.0"
-  }
+  },
+  "name": "Hecto BOT",
+  "version": "yarn init",
+  "description": "BOT DISCORD",
+  "main": "main.js",
+  "repository": "https://github.com/OneG16/HectorBot.git",
+  "author": "Jean Crawford Erill <jeancrawforderill@gmail.com>",
+  "license": "MIT"
 }
